@@ -112,3 +112,6 @@ env*/
 
 # mypy
 .mypy_cache/
+
+## weight files
+.checkpoints_of_models/
