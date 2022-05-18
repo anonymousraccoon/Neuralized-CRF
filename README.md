@@ -12,7 +12,7 @@ Use the package manager pip or conda to install your tensorflow 2.2 GPU environm
 conda create -n tf python=3.8 cudatoolkit=10.1 cudnn tensorflow-gpu=2.2 matplotlib pillow 
 ```
 Download corresponding datasets if you want to train your own model weights, pretrained weights download link:
-<a id="raw-url" href="https://drive.google.com/drive/u/0/shared-with-me">Download Weights</a>
+<a id="raw-url" href="https://drive.google.com/drive/folders/1dMGabX3QspMR2R7x7Ho3iPgD5hZ-yeK7?usp=sharing">Download Weights</a>
 
 
 ## Usage
@@ -44,8 +44,6 @@ Colorization:
 
 ![Colorization-chat](/vis/colorize-chat.jpg)
 
-## Model Weights
-You can download the weights of the trained model from the [Google drive folder](https://drive.google.com/drive/folders/1dMGabX3QspMR2R7x7Ho3iPgD5hZ-yeK7?usp=sharing).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
